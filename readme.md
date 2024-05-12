@@ -8,7 +8,7 @@
 
 *Objetivo:* Descrever o modelo relacional do projeto de forma resumida e simplificada.
 
-    Um modelo relacional é uma técnica usada para organizar dados em um banco de dados. Ele usa tabelas para representar entidades e atributos, relacionando essas tabelas com chaves estrangeiras. Assim, a estrutura relacional no projeto "Abandono Zero" ajuda a organizar informações dos usuários e formulários, permitindo uma consulta e manipulação de dados de maneira prática e eficiente.
+ Um modelo relacional é uma técnica usada para organizar dados em um banco de dados. Ele usa tabelas para representar entidades e atributos, relacionando essas tabelas com chaves estrangeiras. Assim, a estrutura relacional no projeto "Abandono Zero" ajuda a organizar informações dos usuários e formulários, permitindo uma consulta e manipulação de dados de maneira prática e eficiente.
 
 ## Entidades
 
